@@ -30,7 +30,7 @@
 
 ### :fire: Статистика :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tepsurkaevIsa&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuduzow&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### 🥇 Чем я пользуюсь больше всего :
 
