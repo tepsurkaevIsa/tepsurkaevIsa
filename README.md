@@ -28,8 +28,8 @@
 
 ### :fire: Статистика :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SulimanVu&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tepsurkaevIsa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### 🥇 Чем я пользуюсь больше всего :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SulimanVu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tepsurkaevIsa)](https://github.com/anuraghazra/github-readme-stats)
