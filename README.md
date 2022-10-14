@@ -21,12 +21,14 @@
   
 ### Мои проекты:
 
-- Продажа ПК с возможностью сборки <a href="https://github.com/SulimanVu/team-MadePC-Front.git">Code-Front</a> |
-  <a href= "https://github.com/SulimanVu/team-madePC-back">Code-Back</a> | <a href="#">Preview</a>
-- Веб-приложение для поддержания здоровья <a href="https://github.com/SulimanVu/Health-Front.git">Code-Front</a> |
-  <a href="https://github.com/SulimanVu/Health-Back.git">Code-Back</a> | <a href="#">Preview</a>
-- Перевозка грузов <a href="https://github.com/SulimanVu/Truck-Front.git">Code-Front</a> |
-  <a href="https://github.com/SulimanVu/Truck-Back.git">Code-Back</a> | <a href="#">Preview</a>
+- Продажа ПК с возможностью сборки <a href="https://github.com/tepsurkaevIsa/final-front">Code-Front</a> |
+  <a href="https://github.com/tepsurkaevIsa/final-back">Code-Back</a> | <a href="#">Preview</a>
+- Веб-приложение для поддержания здоровья <a href="https://github.com/tepsurkaevIsa/project-Ring-front">Code-Front</a> |
+  <a href="https://github.com/tepsurkaevIsa/project-Ring-back">Code-Back</a> | <a href="#">Preview</a>
+- Перевозка грузов <a href="https://github.com/tepsurkaevIsa/team_project_kinoteatr_front">Code-Front</a> |
+  <a href="https://github.com/tepsurkaevIsa/team_project_kinoteatr_backend">Code-Back</a> | <a href="#">Preview</a>
+- Перевозка грузов <a href="https://github.com/tepsurkaevIsa/command-project-labrary-front">Code-Front</a> |
+  <a href="https://github.com/tepsurkaevIsa/command-project-library-backend">Code-Back</a> | <a href="#">Preview</a>
 
 ### :fire: Статистика :
 
