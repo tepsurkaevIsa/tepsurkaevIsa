@@ -1,5 +1,6 @@
 ## Добро пожаловать на страницу Frontend разработчика!
 
+---
 
 ### :hammer_and_wrench: Стек технологий с которыми я работаю :
 
@@ -19,6 +20,8 @@
   </br>
   </br>
   
+  ---
+  
 ### Мои проекты:
 
 - Онлайн-аукцион <a href="https://github.com/tepsurkaevIsa/final-front">Code-Front</a> |
@@ -30,10 +33,9 @@
 - Онлайн библиотека <a href="https://github.com/tepsurkaevIsa/command-project-labrary-front">Code-Front</a> |
   <a href="https://github.com/tepsurkaevIsa/command-project-library-backend">Code-Back</a> | <a href="#">Preview</a>
 
-### :fire: Статистика :
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tepsurkaevIsa&theme=dark&background=000000)](https://git.io/streak-stats)
+### Как вы можете со мной связаться:
 
-### 🥇 Чем я пользуюсь больше всего :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tepsurkaevIsa)](https://github.com/anuraghazra/github-readme-stats)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/tepsurkaevIsa)
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
