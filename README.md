@@ -21,17 +21,6 @@
   </br>
   
   ---
-  
-### Мои проекты:
-
-- Онлайн-аукцион <a href="https://github.com/tepsurkaevIsa/final-front">Code-Front</a> |
-  <a href="https://github.com/tepsurkaevIsa/final-back">Code-Back</a> | <a href="#">Preview</a>
-- Онлайн кинотеатр <a href="https://github.com/tepsurkaevIsa/team_project_kinoteatr_front">Code-Front</a> |
-  <a href="https://github.com/tepsurkaevIsa/team_project_kinoteatr_backend">Code-Back</a> | <a href="#">Preview</a>
-- Онлайн библиотека <a href="https://github.com/tepsurkaevIsa/command-project-labrary-front">Code-Front</a> |
-  <a href="https://github.com/tepsurkaevIsa/command-project-library-backend">Code-Back</a> | <a href="#">Preview</a>
-
----
 
 ### Как вы можете со мной связаться:
 
